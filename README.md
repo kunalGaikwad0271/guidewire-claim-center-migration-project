@@ -1,0 +1,1 @@
+This project simulates a real-world migration of claims data from a legacy system into Guidewire ClaimCenter for P&C insurance. It covers schema design, data mapping, SQL-based transformation, Gosu rules, and financial reconciliation
