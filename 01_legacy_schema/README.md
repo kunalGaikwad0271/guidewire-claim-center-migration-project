@@ -8,4 +8,4 @@ This repository simulates a real-world data migration from a legacy P&C claims s
 - 06_validation_reconciliation – Data validation and reconciliation
 
 
-This project simulates a real-world migration of claims data from a legacy system into Guidewire ClaimCenter for P&C insurance. It covers schema design, data mapping, SQL-based transformation, Gosu rules, and financial reconciliation
+
